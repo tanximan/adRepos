@@ -1,3 +1,6 @@
+This is change #1
+This is change #2
+This is change #3
 now I am adding these characters on top
 this is my lab text line 1
 for GitHub training by Ali Duncan
